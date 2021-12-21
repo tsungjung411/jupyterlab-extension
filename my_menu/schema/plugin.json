@@ -1,0 +1,39 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "My Settings",
+  "description": "my_menu settings.",
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "jp-my_menu-settings",
+        "label": "My Front Settings",
+        "rank": 0,
+        "items": [
+          {
+            "command": "my_menu:say-hello"
+          }
+        ]
+      },
+      {
+        "id": "jp-mainmenu-aimaker-settings",
+        "label": "My Last Settings",
+        "rank": 999,
+        "items": [
+          {
+            "command": "my_menu:enable-say-hello"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "object",
+  "properties": {
+    "enableSayHello": {
+      "type": "boolean",
+      "default": false,
+      "title": "啟用 [說 hello] 選項",
+      "description": "是否要啟用 [說 hello] 選項？ true / false"
+    }
+  },
+  "additionalProperties": false
+}
