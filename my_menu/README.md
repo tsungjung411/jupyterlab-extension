@@ -1,6 +1,6 @@
 # my_menu
 
-[![Github Actions Status](https://github.com/github_username/my_menu/workflows/Build/badge.svg)](https://github.com/github_username/my_menu/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/tsungjung411/my_menu/workflows/Build/badge.svg)](https://github.com/tsungjung411/my_menu/actions/workflows/build.yml)
 
 show menu
 
