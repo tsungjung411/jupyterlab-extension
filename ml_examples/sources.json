@@ -45,7 +45,7 @@
       {
         "title": "",
         "url": "https://github.com/CODAIT/covid-notebooks/blob/master/notebooks/etl_us_data.ipynb",
-        "url": "https://raw.githubusercontent.com/CODAIT/covid-notebooks/master/notebooks/etl_us_data.ipynb",
+        "file": "https://raw.githubusercontent.com/CODAIT/covid-notebooks/master/notebooks/etl_us_data.ipynb",
         "dependencies": [
           "https://raw.githubusercontent.com/CODAIT/covid-notebooks/master/notebooks/util.py"
         ]
