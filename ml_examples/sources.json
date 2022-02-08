@@ -1,6 +1,56 @@
 {
   "version": 0.1,
-  "list": [
+  "tree": {
+    "Scikit-Learn": {
+      "Classification": [
+        {
+          "title": "Plot classification probability",
+          "url": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/classification/plot_classification_probability.ipynb",
+          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/classification/plot_classification_probability.ipynb"
+        },
+        {
+          "title": "Classifier comparison",
+          "url": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/classification/plot_classifier_comparison.ipynb",
+          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/classification/plot_classifier_comparison.ipynb"
+        },
+        {
+          "title": "Recognizing hand-written digits",
+          "url": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/classification/plot_digits_classification.ipynb",
+          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/classification/plot_digits_classification.ipynb"
+        },
+        {
+          "title": "Normal, Ledoit-Wolf and OAS Linear Discriminant Analysis for classification",
+          "url": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/classification/plot_lda.ipynb",
+          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/classification/plot_lda.ipynb"
+        },
+        {
+          "title": "Linear and Quadratic Discriminant Analysis with covariance ellipsoid",
+          "url": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/classification/plot_lda_qda.ipynb",
+          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/classification/plot_lda_qda.ipynb"
+        }
+      ]
+    },
+    "Clara Parabricks": [
+      {
+        "title": "GPU-accelerated interactive visualization of single cells with RAPIDS, Scanpy and Plotly Dash",
+        "url": "https://github.com/clara-parabricks/rapids-single-cell-examples/blob/master/notebooks/hlca_lung_gpu_analysis-visualization.ipynb",
+        "file": "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/hlca_lung_gpu_analysis-visualization.ipynb",
+        "dependencies": [
+          "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/utils.py",
+          "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/visualize.py"
+        ]
+      }
+    ],
+    "Analyzing COVID-19 time series data": [
+      {
+        "title": "",
+        "url": "https://github.com/CODAIT/covid-notebooks/blob/master/notebooks/etl_us_data.ipynb",
+        "url": "https://raw.githubusercontent.com/CODAIT/covid-notebooks/master/notebooks/etl_us_data.ipynb",
+        "dependencies": [
+          "https://raw.githubusercontent.com/CODAIT/covid-notebooks/master/notebooks/util.py"
+        ]
+      }  
+    ]
     
-  ]
+  }
 }
