@@ -2,6 +2,10 @@
   "version": 0.1,
   "tree": {
     "Scikit-Learn": {
+      "env": {
+        "run": "setup.py",
+        "resources": {"todo": "todo"}
+      },
       "Classification": [
         {
           "title": "Plot classification probability",
