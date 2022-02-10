@@ -1,2 +1,0 @@
-- 資料來源：[Examples — scikit-learn 1.0.2 documentation](https://scikit-learn.org/stable/auto_examples/index.html)
-- 用途：測試下載 .ipynb 範例
