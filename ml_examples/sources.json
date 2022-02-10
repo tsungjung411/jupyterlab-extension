@@ -10,34 +10,40 @@
         {
           "title": "Plot classification probability",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/Classification/plot_classification_probability.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classification_probability.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classification_probability.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classification_probability.ipynb"
         },
         {
           "title": "Classifier comparison",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/Classification/plot_classifier_comparison.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classifier_comparison.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classifier_comparison.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_classifier_comparison.ipynb"
         },
         {
           "title": "Recognizing hand-written digits",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/Classification/plot_digits_classification.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_digits_classification.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_digits_classification.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_digits_classification.ipynb"
         },
         {
           "title": "Normal, Ledoit-Wolf and OAS Linear Discriminant Analysis for classification",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/Classification/plot_lda.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda.ipynb"
         },
         {
           "title": "Linear and Quadratic Discriminant Analysis with covariance ellipsoid",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/Classification/plot_lda_qda.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda_qda.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda_qda.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/Classification/plot_lda_qda.ipynb"
         }
       ],
       "SVM": [
         {
           "title": "SVM with custom kernel",
           "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.ipynb",
-          "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.ipynb"
+          "html": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.html",
+          "ipynb": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.ipynb"
         },
       ]
     }
