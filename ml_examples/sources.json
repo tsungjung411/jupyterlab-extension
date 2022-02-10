@@ -40,8 +40,15 @@
         "url": "https://github.com/clara-parabricks/rapids-single-cell-examples/blob/master/notebooks/hlca_lung_gpu_analysis-visualization.ipynb",
         "file": "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/hlca_lung_gpu_analysis-visualization.ipynb",
         "dependencies": [
-          "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/utils.py",
           "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/visualize.py"
+        ]
+      },
+      {
+        "title": "RAPIDS & Scanpy Single-Cell RNA-seq Workflow on 1.3 Million Cells",
+        "url": "https://github.com/clara-parabricks/rapids-single-cell-examples/blob/master/notebooks/1M_brain_gpu_analysis_multigpu.ipynb",
+        "file": "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/1M_brain_gpu_analysis_multigpu.ipynb"
+        "dependencies": [
+          "https://raw.githubusercontent.com/clara-parabricks/rapids-single-cell-examples/master/notebooks/utils.py"
         ]
       }
     ],
