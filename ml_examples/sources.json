@@ -36,7 +36,7 @@
       "SVM": [
         {
           "title": "SVM with custom kernel",
-          "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/svm/plot_custom_kernel.ipynb",
+          "view": "https://github.com/tsungjung411/jupyterlab-extension/blob/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.ipynb",
           "file": "https://raw.githubusercontent.com/tsungjung411/jupyterlab-extension/main/ml_examples/Scikit-Learn/SVM/plot_custom_kernel.ipynb"
         },
       ]
